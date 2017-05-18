@@ -1,0 +1,1 @@
+echo 'hello world' > sometextfile.txt

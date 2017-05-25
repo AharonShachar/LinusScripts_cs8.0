@@ -1,1 +1,3 @@
-echo 'hello world' > sometextfile.txt
+echo $1 > sometextfile.txt
+
+

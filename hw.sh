@@ -1,3 +1,3 @@
-echo {{param1}} > newfile.txt
+echo $param1 > newfile.txt
 
 

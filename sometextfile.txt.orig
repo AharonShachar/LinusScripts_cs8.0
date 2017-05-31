@@ -2,5 +2,9 @@ hello world2
 adding new content
 this is test branch - web edit
 test2 branch
+<<<<<<< HEAD
+dev feature
+=======
 fix feature
 develop2 on web
+>>>>>>> c0ee203b5649b2119f3b665a6e9d7613f6faa317
